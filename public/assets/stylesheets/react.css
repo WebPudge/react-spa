@@ -1,0 +1,29 @@
+@charset "utf-8";
+/**************************************
+*   开发者：杨志欣
+*   功能：
+*   最后更改日期 2017/11/9
+**************************************/
+.glyphicon{
+    font-size: 20px;
+}
+.nav-item{
+    text-align: center;
+}
+.nav-item > a{
+    color: #333;
+}
+.navMain{
+    background-color: #eee;
+    border-top: 1px solid #ccc;
+}
+.nav-item{
+    padding: 0;
+}
+.nav-item > a:focus{
+    background-color: #ccc !important;
+}
+.nav-item p{
+    margin: 0;
+    padding: 0;
+}
